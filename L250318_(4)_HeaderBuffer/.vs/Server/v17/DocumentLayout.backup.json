@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Heetae\\source\\repos\\\uBD80\uD2B8\uCEA0\uD504C#\uB124\uD2B8\uC6CC\uD06C\\\uACF5\uBD80\uC8FC\uC11D\\L250318_(4)_HeaderBuffer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1CC88015-9F5C-48C9-BC48-2B75955AAF35}|Client\\Client.csproj|c:\\users\\heetae\\source\\repos\\\uBD80\uD2B8\uCEA0\uD504c#\uB124\uD2B8\uC6CC\uD06C\\\uACF5\uBD80\uC8FC\uC11D\\l250318_(4)_headerbuffer\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CC88015-9F5C-48C9-BC48-2B75955AAF35}|Client\\Client.csproj|solutionrelative:client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{646E1079-F0CC-435A-BDCE-AF0D514B5766}|Server\\Server.csproj|c:\\users\\heetae\\source\\repos\\\uBD80\uD2B8\uCEA0\uD504c#\uB124\uD2B8\uC6CC\uD06C\\\uACF5\uBD80\uC8FC\uC11D\\l250318_(4)_headerbuffer\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{646E1079-F0CC-435A-BDCE-AF0D514B5766}|Server\\Server.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\\uBD80\uD2B8\uCEA0\uD504C#\uB124\uD2B8\uC6CC\uD06C\\\uACF5\uBD80\uC8FC\uC11D\\L250318_(4)_HeaderBuffer\\Client\\Program.cs",
+              "RelativeDocumentMoniker": "Client\\Program.cs",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\\uBD80\uD2B8\uCEA0\uD504C#\uB124\uD2B8\uC6CC\uD06C\\\uACF5\uBD80\uC8FC\uC11D\\L250318_(4)_HeaderBuffer\\Client\\Program.cs",
+              "RelativeToolTip": "Client\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T07:02:18.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\\uBD80\uD2B8\uCEA0\uD504C#\uB124\uD2B8\uC6CC\uD06C\\\uACF5\uBD80\uC8FC\uC11D\\L250318_(4)_HeaderBuffer\\Server\\Program.cs",
+              "RelativeDocumentMoniker": "Server\\Program.cs",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\\uBD80\uD2B8\uCEA0\uD504C#\uB124\uD2B8\uC6CC\uD06C\\\uACF5\uBD80\uC8FC\uC11D\\L250318_(4)_HeaderBuffer\\Server\\Program.cs",
+              "RelativeToolTip": "Server\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T07:01:05.21Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
