@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Heetae\\source\\repos\\Clonings_BootMultiStudyings\\\uC8FC\uC11D \uAE30\uB85D\\L250318_(3)_UDP\\",
+  "WorkspaceRootPath": "C:\\Users\\Heetae\\source\\repos\\Clonings_BootMultiStudyings\\\uACF5\uBD80\uC8FC\uC11D\\L20250318_(3)_UDP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2B80DC4C-F9A9-4E45-B1D4-0749EFC3F828}|Client\\Client.csproj|c:\\users\\heetae\\source\\repos\\clonings_bootmultistudyings\\\uC8FC\uC11D \uAE30\uB85D\\l250318_(3)_udp\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B80DC4C-F9A9-4E45-B1D4-0749EFC3F828}|Client\\Client.csproj|solutionrelative:client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FB68B11E-9A55-40C8-B261-AE04DE1BF87D}|L250318_(3)_UDP\\Server.csproj|c:\\users\\heetae\\source\\repos\\clonings_bootmultistudyings\\\uACF5\uBD80\uC8FC\uC11D\\l20250318_(3)_udp\\l250318_(3)_udp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB68B11E-9A55-40C8-B261-AE04DE1BF87D}|L250318_(3)_UDP\\Server.csproj|solutionrelative:l250318_(3)_udp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB68B11E-9A55-40C8-B261-AE04DE1BF87D}|L250318_(3)_UDP\\Server.csproj|c:\\users\\heetae\\source\\repos\\clonings_bootmultistudyings\\\uC8FC\uC11D \uAE30\uB85D\\l250318_(3)_udp\\l250318_(3)_udp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB68B11E-9A55-40C8-B261-AE04DE1BF87D}|L250318_(3)_UDP\\Server.csproj|solutionrelative:l250318_(3)_udp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2B80DC4C-F9A9-4E45-B1D4-0749EFC3F828}|Client\\Client.csproj|c:\\users\\heetae\\source\\repos\\clonings_bootmultistudyings\\\uACF5\uBD80\uC8FC\uC11D\\l20250318_(3)_udp\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B80DC4C-F9A9-4E45-B1D4-0749EFC3F828}|Client\\Client.csproj|solutionrelative:client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Clonings_BootMultiStudyings\\\uC8FC\uC11D \uAE30\uB85D\\L250318_(3)_UDP\\Client\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Clonings_BootMultiStudyings\\\uACF5\uBD80\uC8FC\uC11D\\L20250318_(3)_UDP\\Client\\Program.cs",
               "RelativeDocumentMoniker": "Client\\Program.cs",
-              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Clonings_BootMultiStudyings\\\uC8FC\uC11D \uAE30\uB85D\\L250318_(3)_UDP\\Client\\Program.cs",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Clonings_BootMultiStudyings\\\uACF5\uBD80\uC8FC\uC11D\\L20250318_(3)_UDP\\Client\\Program.cs",
               "RelativeToolTip": "Client\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-18T06:06:02.665Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Clonings_BootMultiStudyings\\\uC8FC\uC11D \uAE30\uB85D\\L250318_(3)_UDP\\L250318_(3)_UDP\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Clonings_BootMultiStudyings\\\uACF5\uBD80\uC8FC\uC11D\\L20250318_(3)_UDP\\L250318_(3)_UDP\\Program.cs",
               "RelativeDocumentMoniker": "L250318_(3)_UDP\\Program.cs",
-              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Clonings_BootMultiStudyings\\\uC8FC\uC11D \uAE30\uB85D\\L250318_(3)_UDP\\L250318_(3)_UDP\\Program.cs",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Clonings_BootMultiStudyings\\\uACF5\uBD80\uC8FC\uC11D\\L20250318_(3)_UDP\\L250318_(3)_UDP\\Program.cs",
               "RelativeToolTip": "L250318_(3)_UDP\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-18T05:59:58.357Z",
               "EditorCaption": ""

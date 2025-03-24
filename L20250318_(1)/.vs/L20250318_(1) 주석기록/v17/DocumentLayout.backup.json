@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Heetae\\source\\repos\\Clonings_BootMultiStudyings\\\uACF5\uBD80\uC8FC\uC11D\\L20250318_(1)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A9279AAA-D410-4C10-8C46-8A011E1B1A0E}|L20250318_(1) \uC8FC\uC11D\uAE30\uB85D\\Client.csproj|c:\\users\\heetae\\source\\repos\\clonings_bootmultistudyings\\\uACF5\uBD80\uC8FC\uC11D\\l20250318_(1)\\l20250318_(1) \uC8FC\uC11D\uAE30\uB85D\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9279AAA-D410-4C10-8C46-8A011E1B1A0E}|L20250318_(1) \uC8FC\uC11D\uAE30\uB85D\\Client.csproj|solutionrelative:l20250318_(1) \uC8FC\uC11D\uAE30\uB85D\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{46F81BE6-2D11-470F-AE24-825E0A70B3F4}|Server\\Server.csproj|c:\\users\\heetae\\source\\repos\\clonings_bootmultistudyings\\\uACF5\uBD80\uC8FC\uC11D\\l20250318_(1)\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{46F81BE6-2D11-470F-AE24-825E0A70B3F4}|Server\\Server.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9279AAA-D410-4C10-8C46-8A011E1B1A0E}|L20250318_(1) \uC8FC\uC11D\uAE30\uB85D\\Client.csproj|c:\\users\\heetae\\source\\repos\\clonings_bootmultistudyings\\\uACF5\uBD80\uC8FC\uC11D\\l20250318_(1)\\l20250318_(1) \uC8FC\uC11D\uAE30\uB85D\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9279AAA-D410-4C10-8C46-8A011E1B1A0E}|L20250318_(1) \uC8FC\uC11D\uAE30\uB85D\\Client.csproj|solutionrelative:l20250318_(1) \uC8FC\uC11D\uAE30\uB85D\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Clonings_BootMultiStudyings\\\uACF5\uBD80\uC8FC\uC11D\\L20250318_(1)\\Server\\Program.cs",
               "RelativeDocumentMoniker": "Server\\Program.cs",
               "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Clonings_BootMultiStudyings\\\uACF5\uBD80\uC8FC\uC11D\\L20250318_(1)\\Server\\Program.cs",
               "RelativeToolTip": "Server\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-18T05:00:29.131Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Clonings_BootMultiStudyings\\\uACF5\uBD80\uC8FC\uC11D\\L20250318_(1)\\L20250318_(1) \uC8FC\uC11D\uAE30\uB85D\\Program.cs",
               "RelativeDocumentMoniker": "L20250318_(1) \uC8FC\uC11D\uAE30\uB85D\\Program.cs",
               "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Clonings_BootMultiStudyings\\\uACF5\uBD80\uC8FC\uC11D\\L20250318_(1)\\L20250318_(1) \uC8FC\uC11D\uAE30\uB85D\\Program.cs",
               "RelativeToolTip": "L20250318_(1) \uC8FC\uC11D\uAE30\uB85D\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-18T04:52:02.634Z",
               "EditorCaption": ""

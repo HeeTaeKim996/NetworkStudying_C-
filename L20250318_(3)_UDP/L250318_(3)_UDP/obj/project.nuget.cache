@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fAKWGbExmTY=",
+  "dgSpecHash": "nOI0WmZ0e/M=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Heetae\\source\\repos\\Clonings_BootMultiStudyings\\공부주석\\L20250318_(3)_UDP\\L250318_(3)_UDP\\Server.csproj",
+  "projectFilePath": "C:\\Users\\Heetae\\source\\repos\\네트워크공부_C#\\공부주석\\L20250318_(3)_UDP\\L250318_(3)_UDP\\Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Heetae\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],

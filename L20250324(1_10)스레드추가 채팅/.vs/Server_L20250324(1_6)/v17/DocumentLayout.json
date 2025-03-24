@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Heetae\\source\\repos\\\uB124\uD2B8\uC6CC\uD06C\uACF5\uBD80_C#\\\uACF5\uBD80\uC8FC\uC11D\\L20250324(1_10)\uC2A4\uB808\uB4DC\uCD94\uAC00 \uCC44\uD305\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70179332-471C-431C-8FFE-FFCAC41C7861}|Server_L20250324(1_6)\\Server_L20250324(1_6).csproj|c:\\users\\heetae\\source\\repos\\\uB124\uD2B8\uC6CC\uD06C\uACF5\uBD80_c#\\\uACF5\uBD80\uC8FC\uC11D\\l20250324(1_10)\uC2A4\uB808\uB4DC\uCD94\uAC00 \uCC44\uD305\\server_l20250324(1_6)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70179332-471C-431C-8FFE-FFCAC41C7861}|Server_L20250324(1_6)\\Server_L20250324(1_6).csproj|solutionrelative:server_l20250324(1_6)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D250A59D-25D7-43FF-9996-E7CB57222B66}|Client\\Client.csproj|c:\\users\\heetae\\source\\repos\\\uB124\uD2B8\uC6CC\uD06C\uACF5\uBD80_c#\\\uACF5\uBD80\uC8FC\uC11D\\l20250324(1_10)\uC2A4\uB808\uB4DC\uCD94\uAC00 \uCC44\uD305\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D250A59D-25D7-43FF-9996-E7CB57222B66}|Client\\Client.csproj|solutionrelative:client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\\uB124\uD2B8\uC6CC\uD06C\uACF5\uBD80_C#\\\uACF5\uBD80\uC8FC\uC11D\\L20250324(1_10)\uC2A4\uB808\uB4DC\uCD94\uAC00 \uCC44\uD305\\Client\\Program.cs",
+              "RelativeDocumentMoniker": "Client\\Program.cs",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\\uB124\uD2B8\uC6CC\uD06C\uACF5\uBD80_C#\\\uACF5\uBD80\uC8FC\uC11D\\L20250324(1_10)\uC2A4\uB808\uB4DC\uCD94\uAC00 \uCC44\uD305\\Client\\Program.cs",
+              "RelativeToolTip": "Client\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T07:37:05.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\\uB124\uD2B8\uC6CC\uD06C\uACF5\uBD80_C#\\\uACF5\uBD80\uC8FC\uC11D\\L20250324(1_10)\uC2A4\uB808\uB4DC\uCD94\uAC00 \uCC44\uD305\\Server_L20250324(1_6)\\Program.cs",
+              "RelativeDocumentMoniker": "Server_L20250324(1_6)\\Program.cs",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\\uB124\uD2B8\uC6CC\uD06C\uACF5\uBD80_C#\\\uACF5\uBD80\uC8FC\uC11D\\L20250324(1_10)\uC2A4\uB808\uB4DC\uCD94\uAC00 \uCC44\uD305\\Server_L20250324(1_6)\\Program.cs",
+              "RelativeToolTip": "Server_L20250324(1_6)\\Program.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAQwIMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T06:46:02.338Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
