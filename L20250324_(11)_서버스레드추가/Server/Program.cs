@@ -111,7 +111,6 @@ namespace Server
                         clientSockets.Remove(clientSocket);
                         foreach (Socket sendSocket in clientSockets)
                         {
-                            clientSockets.Remove(clientSocket);
                             int SendLength = sendSocket.Send(sendBuffer, sendBuffer.Length, SocketFlags.None);
                         }
                     }
